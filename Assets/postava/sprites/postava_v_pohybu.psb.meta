@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: 881655e1d7eb55a4097b2fc46a50cf9c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Vrstva 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 468
+      width: 211
+      height: 224
+    spriteID: d4203029d36954741a2f03236620ab3f
+    spriteBone:
+    - name: bone_22
+      guid: e56436767d363b149958479471d077dc
+      position: {x: 129.01703, y: 187.41205, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7648056, w: 0.6442611}
+      length: 186.2694
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    spriteOutline: []
+    vertices:
+    - position: {x: 119.227, y: 0.4929962}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 120.064, y: 0.8740006}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 144.655, y: 8.181}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 165.435, y: 23.468002}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 181.994, y: 43.321}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 189.138, y: 67.91}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 191.375, y: 93.289}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 201.20801, y: 115.145}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 211, y: 134.49}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 203.03299, y: 136.815}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 178.3, y: 131.047}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 152.95, y: 125.098}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 146.261, y: 149.12201}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 143.318, y: 174.72}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 142.081, y: 201.308}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 139.187, y: 223.811}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 132.881, y: 218.541}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 118.154, y: 195.972}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 104.891, y: 173.368}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 91.723, y: 150.693}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 76.906, y: 129.145}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 52.906, y: 131.58301}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 28.488997, y: 139.17}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 4.163002, y: 148}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 0, y: 143.34}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 10.124001, y: 117.761}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 15.720001, y: 94.92}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 16, y: 69.772}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 23.990997, y: 45.138}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 38.753, y: 24.249}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 59.769, y: 9.320999}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 83.72, y: 1.288002}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 102.908, y: 0.33399963}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 126.669586, y: 72.979515}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 76.07315, y: 68.45826}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    spritePhysicsOutline: []
+    indices: 0000000020000000010000000e000000100000000f0000000e0000001100000010000000140000002200000015000000140000002100000022000000150000001900000016000000150000001a000000190000000d000000120000001100000015000000220000001a0000001600000019000000180000001a000000220000001b0000001b000000220000001c0000001c000000220000001d0000001d000000220000001e0000001e000000220000001f0000001600000018000000170000001f00000022000000200000000d000000110000000e0000000c000000120000000d0000000100000021000000020000000100000020000000210000000200000021000000030000000300000021000000040000000400000021000000050000000500000021000000060000000c0000001300000012000000060000000a0000000700000006000000210000000b000000070000000900000008000000070000000a000000090000000b000000130000000c0000000b00000014000000130000000b0000002100000014000000060000000b0000000a000000200000002200000021000000
+    edges:
+    - {x: 0, y: 1}
+    - {x: 0, y: 32}
+    - {x: 1, y: 2}
+    - {x: 2, y: 3}
+    - {x: 3, y: 4}
+    - {x: 4, y: 5}
+    - {x: 5, y: 6}
+    - {x: 6, y: 7}
+    - {x: 7, y: 8}
+    - {x: 8, y: 9}
+    - {x: 9, y: 10}
+    - {x: 10, y: 11}
+    - {x: 11, y: 12}
+    - {x: 12, y: 13}
+    - {x: 13, y: 14}
+    - {x: 14, y: 15}
+    - {x: 15, y: 16}
+    - {x: 16, y: 17}
+    - {x: 17, y: 18}
+    - {x: 18, y: 19}
+    - {x: 19, y: 20}
+    - {x: 20, y: 21}
+    - {x: 21, y: 22}
+    - {x: 22, y: 23}
+    - {x: 23, y: 24}
+    - {x: 24, y: 25}
+    - {x: 25, y: 26}
+    - {x: 26, y: 27}
+    - {x: 27, y: 28}
+    - {x: 28, y: 29}
+    - {x: 29, y: 30}
+    - {x: 30, y: 31}
+    - {x: 31, y: 32}
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -306, y: 57}
+  - name: Vrstva 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 490
+      y: 575
+      width: 0
+      height: 0
+    spriteID: 3263fbd70e66d95458d4aae01219965c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -260, y: -109}
+  - name: Vrstva 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 342
+      height: 456
+    spriteID: 986b8859dde1885419627959bcc12a1f
+    spriteBone:
+    - name: bone_1
+      guid: fc5466856f811fa4dad9590c7b44dd32
+      position: {x: 136.02478, y: 221.98007, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8840151, w: 0.46745843}
+      length: 50.954105
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_2
+      guid: 3546119ab1735154ea6c3604265152df
+      position: {x: 50.9541, y: 0.00000031908894, z: 0}
+      rotation: {x: 0, y: 0, z: -0.06782365, w: 0.9976974}
+      length: 50.1287
+      parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_3
+      guid: 3c2b447085588c44ab2842a473af6b67
+      position: {x: 50.12865, y: 0.000027693186, z: 0}
+      rotation: {x: 0, y: 0, z: -0.06953017, w: 0.99757993}
+      length: 49.38757
+      parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_4
+      guid: 02c000a6fe97b994c8e3eefc3fe2f161
+      position: {x: 49.38759, y: 0.0000057231127, z: 0}
+      rotation: {x: 0, y: 0, z: -0.06959552, w: 0.99757534}
+      length: 40.3047
+      parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_23
+      guid: 925d2028c0f3da642bedeee9ee450061
+      position: {x: 40.304695, y: -0.000010838514, z: 0}
+      rotation: {x: 0, y: 0, z: 0.76836365, w: 0.6400136}
+      length: 35.288498
+      parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_24
+      guid: 517a64996fde9c7438396e665657d8d5
+      position: {x: 35.288494, y: -0.000001633719, z: 0}
+      rotation: {x: 0, y: 0, z: 0.10543964, w: 0.9944257}
+      length: 46.707436
+      parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_25
+      guid: e67ae7694479a9e4895cd77483c0a87b
+      position: {x: 46.707424, y: -0.0000018695428, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1072763, w: 0.99422926}
+      length: 82.26553
+      parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_17
+      guid: d5e374fd082d9b74d9d7b38b77253c1f
+      position: {x: 84.5454, y: 0.000004201548, z: 0}
+      rotation: {x: 0, y: 0, z: -0.098368, w: 0.9951501}
+      length: 81.66679
+      parentId: 8
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_16
+      guid: 2b4cc2b7cdf27a04d861e7fe36640c6b
+      position: {x: 55.48496, y: 0.000021081667, z: 0}
+      rotation: {x: 0, y: 0, z: -0.21915548, w: 0.97569}
+      length: 84.545425
+      parentId: 9
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_15
+      guid: 2e9f59efeff6e814994e5da92e80f9b8
+      position: {x: 192.34543, y: 214.44656, z: 0}
+      rotation: {x: 0, y: 0, z: -0.65496254, w: 0.7556614}
+      length: 55.48493
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_12
+      guid: 8a8659d58eabdc6428479e720c70cc94
+      position: {x: 204.21643, y: 428.80737, z: 0}
+      rotation: {x: 0, y: 0, z: -0.812463, w: 0.58301276}
+      length: 112.92544
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_7
+      guid: 60c6c95387752bc4f9bc97fb1630c895
+      position: {x: 64.63248, y: 0.0000046342184, z: 0}
+      rotation: {x: 0, y: 0, z: 0.080296315, w: 0.99677104}
+      length: 56.13814
+      parentId: 12
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_6
+      guid: 2a57046c03a1be14ea1fd6a383081a77
+      position: {x: 55.753098, y: 0.000051290554, z: 0}
+      rotation: {x: 0, y: 0, z: 0.024305157, w: 0.9997046}
+      length: 64.632515
+      parentId: 13
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_5
+      guid: 4b1baf51d923356459605b7b99dbba29
+      position: {x: 191.55838, y: 448.43494, z: 0}
+      rotation: {x: 0, y: 0, z: -0.94334453, w: 0.33181497}
+      length: 55.753063
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_9
+      guid: b0d7d483ef9a1734380979dc1796a0fb
+      position: {x: -13.558116, y: 12.45523, z: 0}
+      rotation: {x: 0, y: 0, z: 0.81630254, w: 0.5776246}
+      length: 56.924133
+      parentId: 13
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_10
+      guid: ff1a33e0e561c554fa92579ba9686f53
+      position: {x: 56.924072, y: 0.000034676712, z: 0}
+      rotation: {x: 0, y: 0, z: -0.10559808, w: 0.99440897}
+      length: 69.72293
+      parentId: 14
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_11
+      guid: 734051753b7d3ff42a17863c24431efc
+      position: {x: 69.72292, y: 0.000024719098, z: 0}
+      rotation: {x: 0, y: 0, z: -0.15719257, w: 0.98756796}
+      length: 66.56442
+      parentId: 15
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_8
+      guid: de40428d30795164dbe88bb30fc4914b
+      position: {x: 56.138123, y: -0.00004685924, z: 0}
+      rotation: {x: 0, y: 0, z: 0.09886891, w: 0.99510044}
+      length: 47.113976
+      parentId: 11
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_27
+      guid: 2fc603c321fa0e54fad150874dfde692
+      position: {x: 9.588707, y: 0.000019521765, z: 0}
+      rotation: {x: 0, y: 0, z: -0.2645656, w: 0.9643677}
+      length: 46.56796
+      parentId: 19
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_26
+      guid: ffff2653e5f07284ea34bac1122e1bb1
+      position: {x: 82.26554, y: 0.000003170173, z: 0}
+      rotation: {x: 0, y: 0, z: 0.5469151, w: 0.83718807}
+      length: 9.588677
+      parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_28
+      guid: 174e942e88725eb4992e76c074cd02ba
+      position: {x: 46.56791, y: -0.00002724735, z: 0}
+      rotation: {x: 0, y: 0, z: 0.050432384, w: 0.9987275}
+      length: 43.27461
+      parentId: 18
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_29
+      guid: 7aecab091a9be5f4a9231fd23eb88081
+      position: {x: 43.274574, y: 0.000007108887, z: 0}
+      rotation: {x: 0, y: 0, z: 0.09604838, w: 0.9953767}
+      length: 33.08063
+      parentId: 20
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    spriteOutline: []
+    vertices:
+    - position: {x: 143.729, y: 1.2449951}
+      boneWeight:
+        weight0: 0.65253025
+        weight1: 0.18160358
+        weight2: 0.16586621
+        weight3: 0
+        boneIndex0: 19
+        boneIndex1: 6
+        boneIndex2: 7
+        boneIndex3: 0
+    - position: {x: 146.232, y: 2.5449982}
+      boneWeight:
+        weight0: 0.735409
+        weight1: 0.26459098
+        weight2: 0
+        weight3: 0
+        boneIndex0: 19
+        boneIndex1: 7
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 189.903, y: 15.052994}
+      boneWeight:
+        weight0: 0.51185375
+        weight1: 0.48814625
+        weight2: 0
+        weight3: 0
+        boneIndex0: 18
+        boneIndex1: 20
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 234.889, y: 29.446}
+      boneWeight:
+        weight0: 0.5079074
+        weight1: 0.49209255
+        weight2: 0
+        weight3: 0
+        boneIndex0: 21
+        boneIndex1: 20
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 266, y: 46.142}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 21
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 269.678, y: 94.910995}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 21
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 269.085, y: 142.539}
+      boneWeight:
+        weight0: 0.44464716
+        weight1: 0.4178193
+        weight2: 0.13753355
+        weight3: 0
+        boneIndex0: 8
+        boneIndex1: 21
+        boneIndex2: 9
+        boneIndex3: 0
+    - position: {x: 267.501, y: 189.278}
+      boneWeight:
+        weight0: 0.585425
+        weight1: 0.2124089
+        weight2: 0.20216614
+        weight3: 0
+        boneIndex0: 8
+        boneIndex1: 9
+        boneIndex2: 21
+        boneIndex3: 0
+    - position: {x: 278.512, y: 224.506}
+      boneWeight:
+        weight0: 0.47622165
+        weight1: 0.18241276
+        weight2: 0.17426826
+        weight3: 0.16709742
+        boneIndex0: 8
+        boneIndex1: 10
+        boneIndex2: 15
+        boneIndex3: 16
+    - position: {x: 309.63, y: 258.629}
+      boneWeight:
+        weight0: 0.46912032
+        weight1: 0.21504182
+        weight2: 0.19213413
+        weight3: 0.12370387
+        boneIndex0: 16
+        boneIndex1: 8
+        boneIndex2: 15
+        boneIndex3: 10
+    - position: {x: 336.63, y: 296.056}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 16
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 342, y: 313.228}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 16
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 321.86902, y: 357.11902}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 16
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 293.582, y: 394.529}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 15
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 256.658, y: 424.574}
+      boneWeight:
+        weight0: 0.8386482
+        weight1: 0.16135174
+        weight2: 0
+        weight3: 0
+        boneIndex0: 14
+        boneIndex1: 15
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 216.16, y: 449.712}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 14
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 198.607, y: 455.738}
+      boneWeight:
+        weight0: 0.88412344
+        weight1: 0.1158766
+        weight2: 0
+        weight3: 0
+        boneIndex0: 13
+        boneIndex1: 10
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 158.101, y: 427.645}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 13
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 121.459, y: 398.341}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 12
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 87.38, y: 363.992}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 11
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 58.097, y: 326.547}
+      boneWeight:
+        weight0: 0.60613036
+        weight1: 0.39386967
+        weight2: 0
+        weight3: 0
+        boneIndex0: 17
+        boneIndex1: 11
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 38, y: 288.997}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 17
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 40.175995, y: 278.92902}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 17
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 86.103, y: 253.1}
+      boneWeight:
+        weight0: 0.69254804
+        weight1: 0.307452
+        weight2: 0
+        weight3: 0
+        boneIndex0: 17
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 126.896, y: 228.068}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 104.14, y: 190.307}
+      boneWeight:
+        weight0: 0.63359594
+        weight1: 0.36640406
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 1
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 73.443, y: 153.834}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 38.160995, y: 121.575}
+      boneWeight:
+        weight0: 0.89797336
+        weight1: 0.10202665
+        weight2: 0
+        weight3: 0
+        boneIndex0: 3
+        boneIndex1: 2
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 0.35899353, y: 92.325}
+      boneWeight:
+        weight0: 0.61902124
+        weight1: 0.38097876
+        weight2: 0
+        weight3: 0
+        boneIndex0: 3
+        boneIndex1: 4
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 1.2299957, y: 82.92799}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 3
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 30.442993, y: 54.304993}
+      boneWeight:
+        weight0: 0.785275
+        weight1: 0.21472505
+        weight2: 0
+        weight3: 0
+        boneIndex0: 5
+        boneIndex1: 4
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 69.402, y: 27.461}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 6
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 112.966, y: 7.3589935}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 6
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 139.26, y: 0.35699463}
+      boneWeight:
+        weight0: 0.51623094
+        weight1: 0.48376903
+        weight2: 0
+        weight3: 0
+        boneIndex0: 19
+        boneIndex1: 6
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 159.69414, y: 106.81677}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 8
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 195.7833, y: 207.40192}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 9
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 202.09917, y: 318.83517}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 10
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    spritePhysicsOutline: []
+    indices: 00000000210000000100000011000000240000001200000012000000240000001300000013000000170000001400000013000000240000001700000014000000160000001500000014000000170000001600000017000000240000001800000018000000230000001900000018000000240000002300000019000000220000001a0000001900000023000000220000001a000000220000001b0000001b0000001d0000001c0000001b0000001e0000001d0000001b0000001f0000001e0000000f00000011000000100000000e00000024000000110000000e000000110000000f0000000d000000240000000e0000000100000022000000020000000100000021000000200000000100000020000000220000000200000022000000030000000300000005000000040000000300000022000000050000000500000022000000060000001b000000220000001f000000060000002300000007000000070000002300000008000000080000002400000009000000080000002300000024000000090000000c0000000a00000009000000240000000c0000000a0000000c0000000b0000000c000000240000000d0000000600000022000000230000001f0000002200000020000000
+    edges:
+    - {x: 0, y: 1}
+    - {x: 0, y: 33}
+    - {x: 1, y: 2}
+    - {x: 2, y: 3}
+    - {x: 3, y: 4}
+    - {x: 4, y: 5}
+    - {x: 5, y: 6}
+    - {x: 6, y: 7}
+    - {x: 7, y: 8}
+    - {x: 8, y: 9}
+    - {x: 9, y: 10}
+    - {x: 10, y: 11}
+    - {x: 11, y: 12}
+    - {x: 12, y: 13}
+    - {x: 13, y: 14}
+    - {x: 14, y: 15}
+    - {x: 15, y: 16}
+    - {x: 16, y: 17}
+    - {x: 17, y: 18}
+    - {x: 18, y: 19}
+    - {x: 19, y: 20}
+    - {x: 20, y: 21}
+    - {x: 21, y: 22}
+    - {x: 22, y: 23}
+    - {x: 23, y: 24}
+    - {x: 24, y: 25}
+    - {x: 25, y: 26}
+    - {x: 26, y: 27}
+    - {x: 27, y: 28}
+    - {x: 28, y: 29}
+    - {x: 29, y: 30}
+    - {x: 30, y: 31}
+    - {x: 31, y: 32}
+    - {x: 32, y: 33}
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -200, y: -179}
+  - name: Vrstva 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 575
+      width: 259
+      height: 92
+    spriteID: a8f500088f1680f48beee9fd496b6ee5
+    spriteBone:
+    - name: bone_18
+      guid: f6f155ce84aada149a7a3f3581f590d2
+      position: {x: 34.25598, y: 78.69696, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8790219, w: 0.47678146}
+      length: 57.032276
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_19
+      guid: 04aec395f914ad242bac67c6c80d9364
+      position: {x: 256.57248, y: 64.401245, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7266992, w: 0.68695587}
+      length: 59.475838
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    spriteOutline: []
+    vertices:
+    - position: {x: 6.5800014, y: 28.584}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 21.112999, y: 47.069}
+      boneWeight:
+        weight0: 0
+        weight1: 1
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 34.667, y: 66.243}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 48.200996, y: 84.407}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 48.695, y: 91.305}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 40.111, y: 89.793}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 21.810997, y: 67.177}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 8.914001, y: 48.615}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 0, y: 31.082}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 4.0899963, y: 27.274}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 257.184, y: 1.4920006}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 257.71802, y: 2.125}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 259, y: 20.653}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 258.17902, y: 49.476}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 255.133, y: 71.833}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 250.583, y: 79}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 246.775, y: 69.037}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 247.733, y: 46.108}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 248, y: 22.23}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 251.546, y: 0.60499954}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    spritePhysicsOutline: []
+    indices: 0000000007000000010000000000000008000000070000000000000009000000080000000100000006000000020000000100000007000000060000000200000005000000030000000200000006000000050000000300000005000000040000000a000000130000000b0000000b000000120000000c0000000b00000013000000120000000c000000110000000d0000000c00000012000000110000000d000000100000000e0000000d00000011000000100000000e000000100000000f000000
+    edges:
+    - {x: 0, y: 1}
+    - {x: 0, y: 9}
+    - {x: 1, y: 2}
+    - {x: 2, y: 3}
+    - {x: 3, y: 4}
+    - {x: 4, y: 5}
+    - {x: 5, y: 6}
+    - {x: 6, y: 7}
+    - {x: 7, y: 8}
+    - {x: 8, y: 9}
+    - {x: 10, y: 11}
+    - {x: 10, y: 19}
+    - {x: 11, y: 12}
+    - {x: 12, y: 13}
+    - {x: 13, y: 14}
+    - {x: 14, y: 15}
+    - {x: 15, y: 16}
+    - {x: 16, y: 17}
+    - {x: 17, y: 18}
+    - {x: 18, y: 19}
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 380}
+  - name: Vrstva 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 468
+      width: 266
+      height: 99
+    spriteID: 3859407deb7cde0479b135500418f57f
+    spriteBone:
+    - name: bone_20
+      guid: 7edfa4428ed606844a80f72104eb9f81
+      position: {x: 77.70825, y: 85.49988, z: 0}
+      rotation: {x: 0, y: 0, z: -0.9232404, w: 0.3842228}
+      length: 97.64523
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_21
+      guid: 9685d68848e21994d999b2847c195e6a
+      position: {x: 202.39682, y: 83.45984, z: 0}
+      rotation: {x: 0, y: 0, z: -0.45455396, w: 0.89071923}
+      length: 91.51137
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    spriteOutline: []
+    vertices:
+    - position: {x: 25.581001, y: 10.056}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 45.509003, y: 22.734}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 63.448, y: 39.077}
+      boneWeight:
+        weight0: 0
+        weight1: 0
+        weight2: 1
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 80.302, y: 56.635}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 95, y: 73.1}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 84.945, y: 92.333}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 70.083, y: 99}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 63.192, y: 97.188995}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 34.792, y: 69.94}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 17.403, y: 52.503}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 1.173996, y: 34.433}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 1.4259949, y: 15.577}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 18.125, y: 8}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 261, y: 2}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 265.56702, y: 14.869998}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 262.565, y: 32.247}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 248.911, y: 52.016}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 235.167, y: 71.305}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 220.793, y: 90.034}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 210.068, y: 99}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 192.074, y: 93.074005}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 181.719, y: 78.597}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 183.3, y: 71.983}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 197.92801, y: 50.853}
+      boneWeight:
+        weight0: 0
+        weight1: 1
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 1
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 211.91, y: 31.601}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 226.829, y: 12.9939995}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 243.064, y: 0}
+      boneWeight:
+        weight0: 0.99999994
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 23.037954, y: 30.844358}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 56.290623, y: 60.591667}
+      boneWeight:
+        weight0: 0
+        weight1: 1
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 40.001675, y: 45.868202}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 71.07461, y: 76.04388}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 48.992, y: 83.5645}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 240.17065, y: 28.907356}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 224.16745, y: 50.49172}
+      boneWeight:
+        weight0: 0
+        weight1: 1
+        weight2: 0
+        weight3: 0
+        boneIndex0: 0
+        boneIndex1: 1
+        boneIndex2: 0
+        boneIndex3: 0
+    - position: {x: 208.4747, y: 71.4325}
+      boneWeight:
+        weight0: 1
+        weight1: 0
+        weight2: 0
+        weight3: 0
+        boneIndex0: 1
+        boneIndex1: 0
+        boneIndex2: 0
+        boneIndex3: 0
+    spritePhysicsOutline: []
+    indices: 000000001b000000010000000e0000001a000000200000000f00000020000000100000001000000021000000110000001000000020000000210000001100000022000000120000001100000021000000220000001200000022000000130000001300000022000000140000001400000022000000150000001500000022000000160000001600000022000000170000001700000021000000180000001700000022000000210000001800000020000000190000001800000021000000200000000e000000200000000f0000000d0000001a0000000e0000000b0000001b0000000c0000000a0000001b0000000b000000000000000c0000001b000000010000001d00000002000000010000001b0000001d000000020000001c00000003000000020000001d0000001c000000030000001e00000004000000030000001c0000001e00000019000000200000001a000000040000001e00000005000000060000001e00000007000000070000001e0000001f000000080000001d00000009000000080000001f0000001c000000080000001c0000001d000000090000001b0000000a000000090000001d0000001b000000050000001e000000060000001c0000001f0000001e000000
+    edges:
+    - {x: 0, y: 1}
+    - {x: 0, y: 12}
+    - {x: 1, y: 2}
+    - {x: 2, y: 3}
+    - {x: 3, y: 4}
+    - {x: 4, y: 5}
+    - {x: 5, y: 6}
+    - {x: 6, y: 7}
+    - {x: 7, y: 31}
+    - {x: 8, y: 31}
+    - {x: 8, y: 9}
+    - {x: 9, y: 10}
+    - {x: 10, y: 11}
+    - {x: 11, y: 12}
+    - {x: 13, y: 14}
+    - {x: 13, y: 26}
+    - {x: 14, y: 15}
+    - {x: 15, y: 16}
+    - {x: 16, y: 17}
+    - {x: 17, y: 18}
+    - {x: 18, y: 19}
+    - {x: 19, y: 20}
+    - {x: 20, y: 21}
+    - {x: 21, y: 22}
+    - {x: 22, y: 23}
+    - {x: 23, y: 24}
+    - {x: 24, y: 25}
+    - {x: 25, y: 26}
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 298}
+  characterData:
+    bones:
+    - name: bone_1
+      guid: fc5466856f811fa4dad9590c7b44dd32
+      position: {x: 340.02478, y: 404.98007, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8840151, w: 0.46745843}
+      length: 50.954105
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_2
+      guid: 3546119ab1735154ea6c3604265152df
+      position: {x: 50.954098, y: -0.000008383189, z: 0}
+      rotation: {x: 0, y: 0, z: -0.06782365, w: 0.99769735}
+      length: 50.128693
+      parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_3
+      guid: 3c2b447085588c44ab2842a473af6b67
+      position: {x: 50.12867, y: 0.00002511492, z: 0}
+      rotation: {x: 0, y: 0, z: -0.06953016, w: 0.9975799}
+      length: 49.38757
+      parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_4
+      guid: 02c000a6fe97b994c8e3eefc3fe2f161
+      position: {x: 49.387566, y: -0.0000039328397, z: 0}
+      rotation: {x: 0, y: 0, z: -0.0695955, w: 0.9975753}
+      length: 40.304703
+      parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_5
+      guid: 4b1baf51d923356459605b7b99dbba29
+      position: {x: 395.55838, y: 631.43494, z: 0}
+      rotation: {x: 0, y: 0, z: -0.94334453, w: 0.33181497}
+      length: 55.753063
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_6
+      guid: 2a57046c03a1be14ea1fd6a383081a77
+      position: {x: 55.75307, y: 0.000025585672, z: 0}
+      rotation: {x: 0, y: 0, z: 0.02430518, w: 0.9997046}
+      length: 64.63251
+      parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_7
+      guid: 60c6c95387752bc4f9bc97fb1630c895
+      position: {x: 64.63252, y: 0.00004432423, z: 0}
+      rotation: {x: 0, y: 0, z: 0.080296285, w: 0.99677104}
+      length: 56.138145
+      parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_8
+      guid: de40428d30795164dbe88bb30fc4914b
+      position: {x: 56.13813, y: -0.000004372596, z: 0}
+      rotation: {x: 0, y: 0, z: 0.098868914, w: 0.9951005}
+      length: 47.113976
+      parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_9
+      guid: b0d7d483ef9a1734380979dc1796a0fb
+      position: {x: -13.558106, y: 12.4552355, z: 0}
+      rotation: {x: 0, y: -0, z: 0.8163026, w: 0.5776246}
+      length: 56.92412
+      parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_10
+      guid: ff1a33e0e561c554fa92579ba9686f53
+      position: {x: 56.924137, y: -0.00003614724, z: 0}
+      rotation: {x: 0, y: 0, z: -0.10559809, w: 0.9944089}
+      length: 69.72291
+      parentId: 8
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_11
+      guid: 734051753b7d3ff42a17863c24431efc
+      position: {x: 69.72291, y: -0.000028124676, z: 0}
+      rotation: {x: 0, y: 0, z: -0.15719253, w: 0.987568}
+      length: 66.56442
+      parentId: 9
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_12
+      guid: 8a8659d58eabdc6428479e720c70cc94
+      position: {x: 408.21643, y: 611.8074, z: 0}
+      rotation: {x: 0, y: 0, z: -0.812463, w: 0.58301276}
+      length: 112.925446
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_14
+      guid: 80f612b8bc4c10e43b3b473c2368c423
+      position: {x: 112.92548, y: 0.000013749232, z: 0}
+      rotation: {x: 0, y: 0, z: 0.27076024, w: 0.96264684}
+      length: 110.09285
+      parentId: 11
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_15
+      guid: 2e9f59efeff6e814994e5da92e80f9b8
+      position: {x: 110.09284, y: -0.0000065562076, z: 0}
+      rotation: {x: 0, y: 0, z: -0.039940692, w: 0.9992021}
+      length: 55.484924
+      parentId: 12
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_16
+      guid: 2b4cc2b7cdf27a04d861e7fe36640c6b
+      position: {x: 55.484947, y: 0.000012515117, z: 0}
+      rotation: {x: 0, y: 0, z: -0.21915543, w: 0.97569}
+      length: 84.54544
+      parentId: 13
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_17
+      guid: d5e374fd082d9b74d9d7b38b77253c1f
+      position: {x: 84.54544, y: -0.000022707969, z: 0}
+      rotation: {x: 0, y: 0, z: -0.09836806, w: 0.9951501}
+      length: 81.66678
+      parentId: 14
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_18
+      guid: f6f155ce84aada149a7a3f3581f590d2
+      position: {x: 238.256, y: 273.69696, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8790219, w: 0.47678146}
+      length: 57.032272
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_19
+      guid: 04aec395f914ad242bac67c6c80d9364
+      position: {x: 460.57248, y: 259.4012, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7266992, w: 0.68695587}
+      length: 59.475845
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_20
+      guid: 7edfa4428ed606844a80f72104eb9f81
+      position: {x: 281.70825, y: 255.49991, z: 0}
+      rotation: {x: 0, y: 0, z: -0.9232404, w: 0.3842228}
+      length: 97.64523
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_21
+      guid: 9685d68848e21994d999b2847c195e6a
+      position: {x: 406.39682, y: 253.45987, z: 0}
+      rotation: {x: 0, y: 0, z: -0.45455396, w: 0.89071923}
+      length: 91.51137
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_22
+      guid: e56436767d363b149958479471d077dc
+      position: {x: 439.01703, y: 598.41205, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7648056, w: 0.6442611}
+      length: 186.26936
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_23
+      guid: 925d2028c0f3da642bedeee9ee450061
+      position: {x: 40.304707, y: -0.000010838514, z: 0}
+      rotation: {x: 0, y: -0, z: 0.76836365, w: 0.6400135}
+      length: 35.2885
+      parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_24
+      guid: 517a64996fde9c7438396e665657d8d5
+      position: {x: 35.288494, y: 0.0000013387844, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1054395, w: 0.9944257}
+      length: 46.707436
+      parentId: 21
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_25
+      guid: e67ae7694479a9e4895cd77483c0a87b
+      position: {x: 46.707436, y: 0.000014826284, z: 0}
+      rotation: {x: 0, y: 0, z: 0.10727642, w: 0.99422926}
+      length: 82.26555
+      parentId: 22
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_26
+      guid: ffff2653e5f07284ea34bac1122e1bb1
+      position: {x: 82.26556, y: -0.000003193798, z: 0}
+      rotation: {x: 0, y: 0, z: 0.54691505, w: 0.8371881}
+      length: 9.588678
+      parentId: 23
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_27
+      guid: 2fc603c321fa0e54fad150874dfde692
+      position: {x: 9.588695, y: 0.000013708235, z: 0}
+      rotation: {x: 0, y: 0, z: -0.2645655, w: 0.96436775}
+      length: 46.567963
+      parentId: 24
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_28
+      guid: 174e942e88725eb4992e76c074cd02ba
+      position: {x: 46.567932, y: -0.0000023409766, z: 0}
+      rotation: {x: 0, y: 0, z: 0.05043233, w: 0.9987275}
+      length: 43.274612
+      parentId: 25
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_29
+      guid: 7aecab091a9be5f4a9231fd23eb88081
+      position: {x: 43.27459, y: 0.000009316323, z: 0}
+      rotation: {x: 0, y: 0, z: 0.096048445, w: 0.9953767}
+      length: 33.08063
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    parts:
+    - spritePosition:
+        x: 310
+        y: 411
+        width: 211
+        height: 224
+      spriteId: d4203029d36954741a2f03236620ab3f
+      bones: 14000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 750
+        y: 684
+        width: 0
+        height: 0
+      spriteId: 3263fbd70e66d95458d4aae01219965c
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 204
+        y: 183
+        width: 342
+        height: 456
+      spriteId: 986b8859dde1885419627959bcc12a1f
+      bones: 000000000100000002000000030000001500000016000000170000000f0000000e0000000d0000000b00000006000000050000000400000008000000090000000a0000000700000019000000180000001a0000001b000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 204
+        y: 195
+        width: 259
+        height: 92
+      spriteId: a8f500088f1680f48beee9fd496b6ee5
+      bones: 1000000011000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 204
+        y: 170
+        width: 266
+        height: 99
+      spriteId: 3859407deb7cde0479b135500418f57f
+      bones: 1200000013000000
+      parentGroup: 0
+      order: 0
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Vrstva 4
+    spriteName: Vrstva 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d4203029d36954741a2f03236620ab3f
+    layerID: 6
+    mosaicPosition: {x: 4, y: 468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vrstva 2
+    spriteName: Vrstva 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3263fbd70e66d95458d4aae01219965c
+    layerID: 4
+    mosaicPosition: {x: 490, y: 575}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vrstva 3
+    spriteName: Vrstva 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 986b8859dde1885419627959bcc12a1f
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vrstva 6
+    spriteName: Vrstva 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a8f500088f1680f48beee9fd496b6ee5
+    layerID: 9
+    mosaicPosition: {x: 223, y: 575}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vrstva 5
+    spriteName: Vrstva 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3859407deb7cde0479b135500418f57f
+    layerID: 7
+    mosaicPosition: {x: 223, y: 468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
