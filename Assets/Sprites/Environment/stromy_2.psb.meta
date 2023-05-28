@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 12d5f4640d4d87440a28b48aaafebc72
+guid: 5b80084dc8c6de449821baf6a9189b37
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -92,7 +92,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: Layer1
+  - name: Layer2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -101,9 +101,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 817
-      height: 632
-    spriteID: 375959fa3e9531547ab708a2435ed5e6
+      width: 845
+      height: 1079
+    spriteID: 10d5d4221bb02eb4f9b51e119f0b56b8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -112,7 +112,28 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -19, y: -14}
+    uvTransform: {x: -237, y: -39}
+  - name: Layer4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 857
+      y: 4
+      width: 843
+      height: 1078
+    spriteID: 918c3c429efae774cb61631b6861ebf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 615, y: -40}
   characterData:
     bones: []
     parts: []
@@ -143,13 +164,23 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: Layer1
-    spriteName: Layer1
+  - name: Layer2
+    spriteName: Layer2
     isGroup: 0
     parentIndex: -1
-    spriteID: 375959fa3e9531547ab708a2435ed5e6
-    layerID: 8
+    spriteID: 10d5d4221bb02eb4f9b51e119f0b56b8
+    layerID: 4
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer4
+    spriteName: Layer4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 918c3c429efae774cb61631b6861ebf7
+    layerID: 7
+    mosaicPosition: {x: 857, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
