@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5b80084dc8c6de449821baf6a9189b37
+guid: 8c264f0139a977a4a9aacde3aef50ce3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -92,7 +92,28 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: Layer2
+  - name: hlava
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 256
+      width: 109
+      height: 167
+    spriteID: 06f94811a34063b4297117b4af8e72b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 112, y: -70}
+  - name: kozich
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -101,9 +122,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 845
-      height: 1079
-    spriteID: 35cee07247f107048a7822f69e432284
+      width: 246
+      height: 297
+    spriteID: f3f95b3f234faa34296b8c6f49ae35cf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -112,8 +133,29 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -237, y: -39}
-  - name: Vrstva 1
+    uvTransform: {x: -44, y: -273}
+  - name: Layer34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 4
+      width: 236
+      height: 244
+    spriteID: eae259bf11e9a064d9ca705b3572796e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 217, y: -64}
+  - name: nohy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -121,10 +163,10 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 1091
-      width: 843
-      height: 1078
-    spriteID: a5b9e134d9ba5d2489281a9711ff3a7a
+      y: 309
+      width: 174
+      height: 122
+    spriteID: 8ee32f2e51b4c4240b03e3a3378f7048
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -133,28 +175,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -238, y: 1047}
-  - name: Layer5
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 2177
-      width: 1208
-      height: 1122
-    spriteID: a5be47de767d8d14782daa08c9b4bff4
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -238, y: 2133}
+    uvTransform: {x: -78, y: 295}
   characterData:
     bones: []
     parts: []
@@ -185,33 +206,53 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: Layer2
-    spriteName: Layer2
-    isGroup: 0
+  - name: Folder3
+    spriteName: 
+    isGroup: 1
     parentIndex: -1
-    spriteID: 35cee07247f107048a7822f69e432284
-    layerID: 3
+    spriteID: 00000000000000000000000000000000
+    layerID: 32
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: hlava
+    spriteName: hlava
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 06f94811a34063b4297117b4af8e72b6
+    layerID: 35
+    mosaicPosition: {x: 258, y: 256}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: kozich
+    spriteName: kozich
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f3f95b3f234faa34296b8c6f49ae35cf
+    layerID: 41
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Vrstva 1
-    spriteName: Vrstva 1
+  - name: Layer34
+    spriteName: Layer34
     isGroup: 0
-    parentIndex: -1
-    spriteID: a5b9e134d9ba5d2489281a9711ff3a7a
-    layerID: 5
-    mosaicPosition: {x: 4, y: 1091}
+    parentIndex: 0
+    spriteID: eae259bf11e9a064d9ca705b3572796e
+    layerID: 46
+    mosaicPosition: {x: 258, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Layer5
-    spriteName: Layer5
+  - name: nohy
+    spriteName: nohy
     isGroup: 0
-    parentIndex: -1
-    spriteID: a5be47de767d8d14782daa08c9b4bff4
-    layerID: 4
-    mosaicPosition: {x: 4, y: 2177}
+    parentIndex: 0
+    spriteID: 8ee32f2e51b4c4240b03e3a3378f7048
+    layerID: 38
+    mosaicPosition: {x: 4, y: 309}
     flatten: 0
     isImported: 1
     isVisible: 1

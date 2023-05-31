@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5b80084dc8c6de449821baf6a9189b37
+guid: 68ca244ad4fb26542aa10e8da846b15e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -92,7 +92,28 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: Layer2
+  - name: Layer9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 324
+      width: 548
+      height: 242
+    spriteID: 5bff3f86b000abe40947f73206cf8990
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -616, y: 268}
+  - name: Layer7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -101,9 +122,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 845
-      height: 1079
-    spriteID: 35cee07247f107048a7822f69e432284
+      width: 683
+      height: 312
+    spriteID: 243b371893eb20b41a57d2bcc2c68487
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -112,49 +133,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -237, y: -39}
-  - name: Vrstva 1
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1091
-      width: 843
-      height: 1078
-    spriteID: a5b9e134d9ba5d2489281a9711ff3a7a
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -238, y: 1047}
-  - name: Layer5
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 2177
-      width: 1208
-      height: 1122
-    spriteID: a5be47de767d8d14782daa08c9b4bff4
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -238, y: 2133}
+    uvTransform: {x: -29, y: -55}
   characterData:
     bones: []
     parts: []
@@ -185,36 +164,56 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: Layer2
-    spriteName: Layer2
+  - name: Layer5
+    spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: 35cee07247f107048a7822f69e432284
-    layerID: 3
+    spriteID: 00000000000000000000000000000000
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer6
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 4
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer9
+    spriteName: Layer9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5bff3f86b000abe40947f73206cf8990
+    layerID: 10
+    mosaicPosition: {x: 4, y: 324}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer7
+    spriteName: Layer7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 243b371893eb20b41a57d2bcc2c68487
+    layerID: 9
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Vrstva 1
-    spriteName: Vrstva 1
+  - name: Layer4
+    spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: a5b9e134d9ba5d2489281a9711ff3a7a
-    layerID: 5
-    mosaicPosition: {x: 4, y: 1091}
+    spriteID: 00000000000000000000000000000000
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
     flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: Layer5
-    spriteName: Layer5
-    isGroup: 0
-    parentIndex: -1
-    spriteID: a5be47de767d8d14782daa08c9b4bff4
-    layerID: 4
-    mosaicPosition: {x: 4, y: 2177}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
+    isImported: 0
+    isVisible: 0
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
   generateGOHierarchy: 0
