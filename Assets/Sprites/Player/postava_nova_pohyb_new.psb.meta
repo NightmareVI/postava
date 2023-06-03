@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: hlava
@@ -112,7 +113,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 112, y: -70}
+    uvTransform: {x: 258, y: 256}
+    spritePosition: {x: 146, y: 326}
   - name: kozich
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -133,7 +135,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -44, y: -273}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 48, y: 277}
   - name: Layer34
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -154,7 +157,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 217, y: -64}
+    uvTransform: {x: 258, y: 4}
+    spritePosition: {x: 41, y: 68}
   - name: nohy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -175,7 +179,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -78, y: 295}
+    uvTransform: {x: 4, y: 309}
+    spritePosition: {x: 82, y: 14}
   characterData:
     bones: []
     parts: []
@@ -210,7 +215,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: ed77795dedf42f04ea11c40aef33265e
     layerID: 32
     mosaicPosition: {x: 0, y: 0}
     flatten: 0

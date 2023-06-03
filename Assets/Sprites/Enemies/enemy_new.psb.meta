@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Layer8
@@ -536,7 +537,8 @@ ScriptedImporter:
     - {x: 33, y: 34}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 287, y: 17}
+    uvTransform: {x: 661, y: 283}
+    spritePosition: {x: 374, y: 266}
   - name: Layer15
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1033,7 +1035,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1649, y: -378}
+    uvTransform: {x: 1913, y: 157}
+    spritePosition: {x: 264, y: 535}
   - name: Layer12
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1529,7 +1532,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1688, y: -531}
+    uvTransform: {x: 1959, y: 4}
+    spritePosition: {x: 271, y: 535}
   - name: Layer10
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1893,7 +1897,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1192, y: -380}
+    uvTransform: {x: 1741, y: 157}
+    spritePosition: {x: 549, y: 537}
   - name: Layer9
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2335,7 +2340,8 @@ ScriptedImporter:
     - {x: 30, y: 31}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1240, y: -501}
+    uvTransform: {x: 1725, y: 4}
+    spritePosition: {x: 485, y: 505}
   - name: Layer7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3043,7 +3049,8 @@ ScriptedImporter:
     - {x: 21, y: 49}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -162, y: -317}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 166, y: 321}
   - name: Layer4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3623,7 +3630,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 944, y: 45}
+    uvTransform: {x: 1136, y: 156}
+    spritePosition: {x: 192, y: 112}
   - name: Layer5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4215,7 +4223,8 @@ ScriptedImporter:
     - {x: 28, y: 40}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 935, y: -115}
+    uvTransform: {x: 1136, y: 3}
+    spritePosition: {x: 201, y: 119}
   - name: Layer14
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4837,7 +4846,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -224, y: 127}
+    uvTransform: {x: 4, y: 242}
+    spritePosition: {x: 228, y: 115}
   - name: Layer3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5270,7 +5280,8 @@ ScriptedImporter:
     - {x: 30, y: 31}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 404, y: -150}
+    uvTransform: {x: 661, y: 4}
+    spritePosition: {x: 257, y: 154}
   characterData:
     bones:
     - name: bone_1
@@ -5536,7 +5547,40 @@ ScriptedImporter:
     dimension: {x: 0, y: 0}
     characterGroups: []
     boneReadOnly: 0
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   mosaicLayers: 1
   characterMode: 1
   documentPivot: {x: 0, y: 0}

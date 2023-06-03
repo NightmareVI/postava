@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Vrstva 4
@@ -504,7 +505,8 @@ ScriptedImporter:
     - {x: 31, y: 32}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -306, y: 57}
+    uvTransform: {x: 4, y: 468}
+    spritePosition: {x: 310, y: 411}
   - name: Vrstva 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -525,7 +527,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -260, y: -109}
+    uvTransform: {x: 490, y: 575}
+    spritePosition: {x: 0, y: 684}
   - name: Vrstva 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1148,7 +1151,8 @@ ScriptedImporter:
     - {x: 32, y: 33}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -200, y: -179}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 204, y: 183}
   - name: Vrstva 6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1407,7 +1411,8 @@ ScriptedImporter:
     - {x: 18, y: 19}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 19, y: 380}
+    uvTransform: {x: 223, y: 575}
+    spritePosition: {x: 204, y: 195}
   - name: Vrstva 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1824,7 +1829,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 19, y: 298}
+    uvTransform: {x: 223, y: 468}
+    spritePosition: {x: 204, y: 170}
   characterData:
     bones:
     - name: bone_1

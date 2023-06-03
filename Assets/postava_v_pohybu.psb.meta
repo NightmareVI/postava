@@ -90,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: postava_v_pohybu_0
@@ -432,6 +433,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 5, y: 468}
+    spritePosition: {x: 0, y: 0}
   - name: postava_v_pohybu_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -695,6 +697,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 223, y: 603}
+    spritePosition: {x: 0, y: 0}
   - name: postava_v_pohybu_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -958,6 +961,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 471, y: 575}
+    spritePosition: {x: 0, y: 0}
   - name: postava_v_pohybu_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1232,6 +1236,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 223, y: 478}
+    spritePosition: {x: 0, y: 0}
   - name: postava_v_pohybu_4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1506,6 +1511,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 406, y: 469}
+    spritePosition: {x: 0, y: 0}
   - name: postava_v_pohybu_5
     originalName: 
     pivot: {x: 0.593001, y: 0.6397065}
@@ -1879,6 +1885,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 5, y: 5}
+    spritePosition: {x: 0, y: 0}
   characterData:
     bones: []
     parts:
